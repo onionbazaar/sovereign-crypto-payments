@@ -1,0 +1,27 @@
+.crypto-title {
+	font-style: italic;
+}
+
+div.obzsscp-options table.form-table {
+	border-bottom: 1px solid black;
+}
+
+.obzsscp_paymentfield {
+	margin-top: 10px; 
+	padding: 8px; 
+	letter-spacing: 2px; 
+	font-size: 18px;
+}
+
+.obzsscp_paymentoption_table {
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+.obzsscp_paymentoption_table td {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
