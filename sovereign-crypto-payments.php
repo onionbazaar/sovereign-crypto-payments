@@ -3,7 +3,7 @@
 Plugin Name: Sovereign Crypto Payments
 Plugin URI: https://wordpress.org/plugins/sovereign-crypto-payments/
 Description: Cryptocurrency Payment Gateway for WooCommerce.
-Version: 1.0.3
+Version: 1.0.4
 Author: OnionBazaar
 Author URI: https://onionbazaar.org
 License: GNU General Public License v3.0
